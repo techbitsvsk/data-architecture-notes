@@ -1,4 +1,4 @@
-# **A Comparative Analysis of Microsoft Fabric and Databricks with Unity Catalog for Enterprise Data Platforms**
+# **A Comparative Analysis of Microsoft Fabric and Databricks with Unity Catalog for Data Platforms**
 
 ## **I. Executive Summary**
 
